@@ -40,6 +40,7 @@ if (isset($_POST['Sabun']))
     echo "".$_POST['Sabun']."<br>";
     echo "Harga        : Rp " .$harga[3]=20000 * $nsabun;
     echo "<br><p>";
+    //ini pri aku bso
 }
 
 
