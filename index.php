@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td><input type="checkbox" name="Mie_Goreng" value="Mie Goreng">
-Mie Goreng</td>
+Mie Goreng ++</td>
       <td><input type="text" name="jmie" id="jmie"></td>
     </tr>
     <tr>
